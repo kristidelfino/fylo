@@ -253,7 +253,7 @@ footer {
 }
 
 .footer-text {
-    flex-basis: 90%;
+    flex-basis: 96%;
 }
 
 .footer-column p {
@@ -301,7 +301,6 @@ footer i {
         flex-flow: row wrap;
         justify-content: space-between;
     }
-
     .testimonial {
         flex-basis: 25%;
     }
