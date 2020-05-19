@@ -305,6 +305,10 @@ footer i {
 
 @media screen and (min-width: 650px) {
 
+    header {
+        justify-content: space-around;
+    }
+
     .hero-text {
         max-width: 500px;
     }
