@@ -262,7 +262,7 @@ footer {
 
 footer i {
     font-size: 1.5rem;
-    padding: 1rem;
+    padding: .5rem;
 }
 
 @media screen and (min-width: 650px) {
