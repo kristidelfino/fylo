@@ -59,6 +59,12 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+.header-logo {
+    width: 30%;
+    max-width: 200px;
+}
+
 nav {
     font-family: 'Raleway', sans-serif;
     max-width: 70%;
